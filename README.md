@@ -9,6 +9,6 @@ This project is a data visualization project focused on the retail prices of fru
     - **Line Chart:** Used to explain the average prices of vegetables in 2022 by different types.
     - **Bullet Chart:** Used to visualize the average price of fruits in 2020 according to the types.
 - **Key Insights:** The document provides key insights for each visualization, highlighting price comparisons, trends, and notable observations such as which fruits or vegetables have the highest/lowest prices.
-    **Dashboard**
+   - **Dashboard**
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/892ce0df-af09-4191-9c1e-e886c8dbe171" />
 
