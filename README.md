@@ -1,5 +1,6 @@
 # Retail-prices-of-fruits-and-vegetables-in-2020-and-2022.-
 This project is a data visualization project focused on the retail prices of fruits and vegetables in 2020 and 2022.  The project involved data cleaning and preparation, exploratory data analysis, and the creation of several visualizations to understand price trends and comparisons.
+**Data Cleaning and Preparation:** The data was cleaned using Tableau's data interpreter option, and unnecessary data was hidden.  The document states that there were no missing values.
 - **Exploratory Data Analysis:** The analysis involved creating five different types of visualizations:
     - **Data Overview:** The data includes information on the average retail prices of fruits and vegetables.  Key variables include fruit and vegetable names, type (fresh, dried, frozen, canned), and average retail price.
     - **Stacked Bar Chart:** Used to compare the average prices of fruits and fresh vs. frozen types in 2022.
@@ -8,4 +9,6 @@ This project is a data visualization project focused on the retail prices of fru
     - **Line Chart:** Used to explain the average prices of vegetables in 2022 by different types.
     - **Bullet Chart:** Used to visualize the average price of fruits in 2020 according to the types.
 - **Key Insights:** The document provides key insights for each visualization, highlighting price comparisons, trends, and notable observations such as which fruits or vegetables have the highest/lowest prices.
-    - **Data Cleaning and Preparation:** The data was cleaned using Tableau's data interpreter option, and unnecessary data was hidden.  The document states that there were no missing values.
+    **Dashboard**
+<img width="865" alt="image" src="https://github.com/user-attachments/assets/892ce0df-af09-4191-9c1e-e886c8dbe171" />
+
