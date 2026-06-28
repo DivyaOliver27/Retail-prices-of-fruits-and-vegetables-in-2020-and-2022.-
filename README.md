@@ -1,4 +1,4 @@
-# Retail-prices-of-fruits-and-vegetables-in-2020-and-2022.-
+# Retail Prices of Fruits and Vegetables — 2020 & 2022
 A data visualization project analyzing average retail prices of fruits 
 and vegetables across product types (fresh, dried, frozen, canned, juice) 
 using USDA retail scanner data from 2020 and 2022.
