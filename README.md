@@ -37,9 +37,4 @@ most and least affordable to support smarter buying and stocking decisions.
 
  - **Dashboard**
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/892ce0df-af09-4191-9c1e-e886c8dbe171" />
-## Author
-**Divya Chinnabathini**
-Data Analyst | Business Analyst
-MBA in Business Analytics | Lean Six Sigma White & Yellow Belt (CSSC)
-[LinkedIn](https://www.linkedin.com/in/divya-chinnabathini-94939b333/) | [Portfolio](https://app.notion.com/p/Divya-Chinnabathini-Data-Analyst-Portfolio-1d73307c73628061ba40e8571bfa4221)
 
